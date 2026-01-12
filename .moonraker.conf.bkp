@@ -23,6 +23,8 @@ trusted_clients =
 
 [octoprint_compat]
 
+[timelapse]
+
 [history]
 
 [update_manager]
